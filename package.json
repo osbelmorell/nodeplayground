@@ -1,0 +1,23 @@
+{
+  "name": "nodeplayground",
+  "version": "1.0.0",
+  "description": "Nodejs playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osbelmorell/nodeplayground.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Reactjs"
+  ],
+  "author": "Osbel Morell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osbelmorell/nodeplayground/issues"
+  },
+  "homepage": "https://github.com/osbelmorell/nodeplayground#readme"
+}
